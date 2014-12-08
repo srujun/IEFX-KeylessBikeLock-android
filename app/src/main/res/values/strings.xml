@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Keyless Bike Lock</string>
+    <string name="lock_identifier">iEFX Bike Lock</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="lock_button_text">Lock</string>
+    <string name="connect_button_text">Connect to Lock</string>
+    <string name="status_connected">Connected</string>
+    <string name="status_disconnected">Disconnected</string>
+
+    <string name="title_activity_device_scan">Scan Devices</string>
+
+</resources>
